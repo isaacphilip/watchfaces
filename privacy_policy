@@ -1,0 +1,60 @@
+This policy explains how our Wear OS watch faces and watch-face collection app (the “Apps”) handle information. 
+It applies to the Apps listed above whose Google Play listings link to this policy. It does not cover the desktop watch-face design software or independently operated complication providers.
+
+1. Information handled on your watch
+The Apps do not require an account. They do not include advertising, advertising identifiers, developer-operated analytics or developer-operated crash-reporting services. The Apps do not send your watch-face data to us or to our servers.
+
+Depending on the face and settings you select, Wear OS may display the time, date, battery level, step count, heart rate, activity information, weather, calendar information or other information supplied by the system or your chosen complication providers. 
+This information is used to display the features you select. We do not receive or maintain a copy of these readings.
+
+Health and fitness information is used for the selected on-watch display, not for advertising, profiling, sale or medical diagnosis. Availability depends on your device, the chosen provider and the permissions you grant. 
+You can choose another complication, remove it or manage the relevant permissions in your watch or provider settings.
+
+2. Collection app and permissions
+The collection app displays bundled watch-face previews and installs the bundled face you choose through Wear OS. It uses the Watch Face Push permission to manage faces installed by the collection. 
+It may request permission to set a selected face as active. If you decline activation permission, you can select an installed face through the system watch-face picker.
+
+The collection app accesses information about its own installed watch-face packages, such as package identifiers, versions and installation slots, to install or replace the selected face. It does not use this information to track you.
+
+The Apps do not request direct access to your contacts, microphone, camera or precise location. A weather or other complication provider may independently require permissions or connectivity to supply its data. 
+Those requests are controlled by that provider and Wear OS.
+
+3. Storage, retention and deletion
+Watch-face preferences and provider choices are managed locally by Wear OS and the relevant providers. 
+The collection app temporarily copies a bundled watch-face installation file into its private cache when installing a face and attempts to remove that copy after a successful installation. 
+A temporary copy may remain if installation is interrupted.
+
+You can clear the collection app’s local data through device settings, where available, or uninstall it to remove its app-private data. 
+Installed faces may be managed separately through the watch-face picker and system app settings. 
+Removing our Apps does not delete health records, calendar entries or other information held by a separate provider; use that provider’s controls to manage its data.
+
+We do not retain a server-side history of your watch-face use or complication readings.
+
+4. Sharing and third-party services
+We do not sell, rent or share personal information from your use of the Apps for advertising or marketing. The Apps do not independently transmit complication readings to third parties.
+
+Google Play, Wear OS, your device manufacturer and complication providers operate their own services. 
+They may process information under their own privacy policies and your settings, including for distribution, system diagnostics or the data services you enable. 
+Review the policies of the providers you choose. Google’s policy is available at policies.google.com/privacy.
+
+5. Contacting us
+If you contact us at mysitespecial@gmail.com, we receive the contact details and information you choose to send. 
+We use that information to respond to your request and resolve the issue. Please avoid sending health readings or other sensitive information unless necessary for your enquiry.
+
+We retain support correspondence only as long as reasonably necessary to handle the request and meet applicable legal obligations. 
+You may use the same contact address to request access, correction or deletion of information you have provided. Any rights and exceptions depend on applicable law. 
+We cannot delete information controlled solely by a separate complication provider or platform.
+
+6. Security
+The Apps use Wear OS installation, permission and app-private storage mechanisms. 
+We do not operate a remote database of watch-face user information. No device or storage method can be guaranteed completely secure; keep your watch and its operating system up to date.
+
+7. Children’s information
+The Apps do not ask users to provide their age or create an account, and they do not transmit personal information to us during ordinary use. 
+If you believe a child has sent us personal information through a support enquiry, contact mysitespecial@gmail.com so we can review and address it.
+
+8. Changes to this policy
+We may update this policy when the Apps or our information-handling practices change. We will publish the revised policy here and update its effective date. 
+If a change requires additional notice or consent, we will provide it as required by applicable law.
+
+For questions about this policy, contact Lizzner Apps at mysitespecial@gmail.com.
